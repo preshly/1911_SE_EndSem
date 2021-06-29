@@ -8,5 +8,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="D:/1911_Sem_4/SE/mysql-connector-java-8.0.24/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="lib" path="D:/1911_Sem_4/SE LAB/1_selenium_drivers/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/1911_Sem_4/SE LAB/1_selenium_drivers/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/1911_Sem_4/SE LAB/1_selenium_drivers/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
